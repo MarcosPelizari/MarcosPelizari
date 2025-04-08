@@ -30,8 +30,6 @@ Estudo Java desde o ano passado e tenho desenvolvido vários projetos para solid
 
 ## 📊 GitHub Stats:
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MarcosPelizari&show_icons=true&theme=radical)
-
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosPelizari&layout=compact&theme=radical)
 
 ---
